@@ -1,0 +1,24 @@
+_repo: The-Earlier-Work-of-Titian_12626
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Phillips, Claude, Sir
+    birthdate: 1846
+    deathdate: 1924
+    gutenberg_agent_id: '4462'
+    url: http://www.gutenberg.org/2009/agents/4462
+description: ''
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12626'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'ND'
+- !lcsh 'Titian, approximately 1488-1576'
+- GITenberg
+title: The Earlier Work of Titian
+url: http://www.gutenberg.org/ebooks/12626
